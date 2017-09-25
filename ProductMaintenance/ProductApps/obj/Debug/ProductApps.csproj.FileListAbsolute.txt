@@ -39,3 +39,16 @@ C:\MyProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps_MarkupCompile.
 C:\MyProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps.g.resources
 C:\MyProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
 C:\MyProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache
+C:\MyWrap\MyWrap\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe.config
+C:\MyWrap\MyWrap\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
+C:\MyWrap\MyWrap\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
+C:\MyWrap\MyWrap\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe
+C:\MyWrap\MyWrap\ProductMaintenance\ProductApps\bin\Debug\ProductApps.pdb
+C:\MyWrap\MyWrap\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csprojResolveAssemblyReference.cache
+C:\MyWrap\MyWrap\ProductMaintenance\ProductApps\obj\Debug\MainWindow.baml
+C:\MyWrap\MyWrap\ProductMaintenance\ProductApps\obj\Debug\MainWindow.g.cs
+C:\MyWrap\MyWrap\ProductMaintenance\ProductApps\obj\Debug\App.g.cs
+C:\MyWrap\MyWrap\ProductMaintenance\ProductApps\obj\Debug\ProductApps_MarkupCompile.cache
+C:\MyWrap\MyWrap\ProductMaintenance\ProductApps\obj\Debug\ProductApps.g.resources
+C:\MyWrap\MyWrap\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
+C:\MyWrap\MyWrap\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache
